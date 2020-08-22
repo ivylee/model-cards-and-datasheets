@@ -21,6 +21,9 @@ A collection of machine learning model cards and datasheets.
 * [Datasheets for Datasets][8]
 * [Open Images Extended - Crowdsourced][9]
 
+## Tools
+* [Model Card Toolkit][17]
+
 [1]: https://arxiv.org/abs/1810.03993
 [2]: https://modelcards.withgoogle.com/face-detection
 [3]: https://modelcards.withgoogle.com/object-detection
@@ -37,3 +40,4 @@ A collection of machine learning model cards and datasheets.
 [14]: https://drive.google.com/file/d/14pjkgLl3t3jiTiCFuvWGB-uAX_aVZOS5/view
 [15]: https://drive.google.com/file/d/1lPwJ8BD_-3UUor4LayQ0xpa_RIC_hoRh/view
 [16]: https://drive.google.com/file/d/1RCdA83a8JDV3ZPS-mtpsV8mTj3r0F9s-/view
+[17]: https://github.com/tensorflow/model-card-toolkit
