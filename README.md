@@ -20,6 +20,11 @@ A collection of machine learning model cards and datasheets.
 ## Datasheets
 * [Datasheets for Datasets][8]
 * [Open Images Extended - Crowdsourced][9]
+* [Crowdsourced high-quality Chilean Spanish (es-cl) multi-speaker speech dataset][18]
+* [Crowdsourced high-quality Colombian Spanish (es-co) multi-speaker speech dataset][19]
+* [Crowdsourced high-quality Argentinian Spanish (es-ar) speech multi-speaker dataset][20]
+* [Crowdsourced high-quality Peruvian Spanish (es-pe) multi-speaker speech dataset][21]
+([Crowdsourced high-quality Venezuelan Spanish (es-ve) multi-speaker speech dataset][22]
 
 ## Tools
 * [Model Card Toolkit][17]
@@ -41,3 +46,9 @@ A collection of machine learning model cards and datasheets.
 [15]: https://drive.google.com/file/d/1lPwJ8BD_-3UUor4LayQ0xpa_RIC_hoRh/view
 [16]: https://drive.google.com/file/d/1RCdA83a8JDV3ZPS-mtpsV8mTj3r0F9s-/view
 [17]: https://github.com/tensorflow/model-card-toolkit
+[18]: https://research.google/tools/datasets/chilean-spanish-tts/
+[19]: https://research.google/tools/datasets/colombian-spanish-tts/
+[20]: https://research.google/tools/datasets/argentinian-spanish-tts/
+[21]: https://research.google/tools/datasets/peruvian-spanish-tts/
+[22]: https://research.google/tools/datasets/venezuelan-spanish-tts/
+
