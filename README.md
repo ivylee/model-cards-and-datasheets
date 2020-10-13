@@ -16,6 +16,12 @@ A collection of machine learning model cards and datasheets.
 * [MediaPipe Hands][14]
 * [MediaPipe Hair Segmentation][15]
 * [MediaPipe KNIFT (Keypoint Neural Invariant Feature Transform)][16]
+* [PeopleNet, Nvidia][23]
+* [TrafficCamNet, Nvidia][24]
+* [DashCamNet, Nvidia][25]
+* [FaceDetect-IR, Nvidia][26]
+* [VehicleTypeNet, Nvidia][27]
+* [VehicleMakeNet, Nvidia][28]
 
 ## Datasheets
 * [Datasheets for Datasets][8]
@@ -51,3 +57,9 @@ A collection of machine learning model cards and datasheets.
 [20]: https://research.google/tools/datasets/argentinian-spanish-tts/
 [21]: https://research.google/tools/datasets/peruvian-spanish-tts/
 [22]: https://research.google/tools/datasets/venezuelan-spanish-tts/
+[23]: https://ngc.nvidia.com/catalog/models/nvidia:tlt_peoplenet
+[24]: https://ngc.nvidia.com/catalog/models/nvidia:tlt_trafficcamnet
+[25]: https://ngc.nvidia.com/catalog/models/nvidia:tlt_dashcamnet
+[26]: https://ngc.nvidia.com/catalog/models/nvidia:tlt_facedetectir
+[27]: https://ngc.nvidia.com/catalog/models/nvidia:tlt_vehicletypenet
+[28]: https://ngc.nvidia.com/catalog/models/nvidia:tlt_vehiclemakenet
