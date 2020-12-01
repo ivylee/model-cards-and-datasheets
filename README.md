@@ -16,6 +16,10 @@ A collection of machine learning model cards and datasheets.
 * [MediaPipe Hands][14]
 * [MediaPipe Hair Segmentation][15]
 * [MediaPipe KNIFT (Keypoint Neural Invariant Feature Transform)][16]
+* [MediaPipe Meet Segmentation][31]
+* [MediaPipe Iris][32]
+* [MediaPipe BlazePose Upper-body][33]
+* [MediaPipe Objectron][34]
 * [PeopleNet, Nvidia][23]
 * [TrafficCamNet, Nvidia][24]
 * [DashCamNet, Nvidia][25]
@@ -50,7 +54,7 @@ A collection of machine learning model cards and datasheets.
 [9]: https://research.google/static/documents/datasets/open-images-extended-crowdsourced.pdf
 [10]: https://drive.google.com/file/d/1fV7FsmunjDuRrsn4KYf2Efwp0FNBtcR4/view
 [11]: https://arxiv.org/ftp/arxiv/papers/1911/1911.08089.pdf
-[12]: https://sites.google.com/view/perception-cv4arvr/blazeface#h.p_21ojPZDx3cqq
+[12]: https://drive.google.com/file/d/1f39lSzU5Oq-j_OXgS67KfN5wNsoeAZ4V/view
 [13]: https://drive.google.com/file/d/1VFC_wIpw4O7xBOiTgUldl79d9LA-LsnA/view
 [14]: https://drive.google.com/file/d/14pjkgLl3t3jiTiCFuvWGB-uAX_aVZOS5/view
 [15]: https://drive.google.com/file/d/1lPwJ8BD_-3UUor4LayQ0xpa_RIC_hoRh/view
@@ -69,3 +73,7 @@ A collection of machine learning model cards and datasheets.
 [28]: https://ngc.nvidia.com/catalog/models/nvidia:tlt_vehiclemakenet
 [29]: https://cloud.google.com/blog/products/ai-machine-learning/create-a-model-card-with-scikit-learn
 [30]: https://blog.tensorflow.org/2020/11/using-model-card-toolkit-for-tf-model-transparency.html
+[31]: https://drive.google.com/file/d/1WvHxUONoATFJ9JpSgAF7dU_F5V58HItS/view
+[32]: https://drive.google.com/file/d/1bsWbokp9AklH2ANjCfmjqEzzxO1CNbMu/view
+[33]: https://drive.google.com/file/d/1tW-O4wE0SsluKNE7TLfRUgCxVFopwa1k/view
+[34]: https://drive.google.com/file/d/1CMhN7Npdq0Dt2j0_z69mai2-m7oUTRKF/view
