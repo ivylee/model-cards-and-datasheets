@@ -35,6 +35,10 @@ A collection of machine learning model cards and datasheets.
 ## Tools
 * [Model Card Toolkit][17]
 
+## Tutorials
+* [How to create and deploy a model card in the cloud with Scikit-Learn][29]
+* [Using Model Card Toolkit for TF Model Transparency][30]
+
 [1]: https://arxiv.org/abs/1810.03993
 [2]: https://modelcards.withgoogle.com/face-detection
 [3]: https://modelcards.withgoogle.com/object-detection
@@ -63,3 +67,5 @@ A collection of machine learning model cards and datasheets.
 [26]: https://ngc.nvidia.com/catalog/models/nvidia:tlt_facedetectir
 [27]: https://ngc.nvidia.com/catalog/models/nvidia:tlt_vehicletypenet
 [28]: https://ngc.nvidia.com/catalog/models/nvidia:tlt_vehiclemakenet
+[29]: https://cloud.google.com/blog/products/ai-machine-learning/create-a-model-card-with-scikit-learn
+[30]: https://blog.tensorflow.org/2020/11/using-model-card-toolkit-for-tf-model-transparency.html
