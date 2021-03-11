@@ -26,6 +26,9 @@ A collection of machine learning model cards and datasheets.
 * [FaceDetect-IR, Nvidia][26]
 * [VehicleTypeNet, Nvidia][27]
 * [VehicleMakeNet, Nvidia][28]
+* [CLIP, OpenAI][35]
+* [DALL-E, OpenAI][36]
+* [DynaSent][37]
 
 ## Datasheets
 * [Datasheets for Datasets][8]
@@ -35,6 +38,7 @@ A collection of machine learning model cards and datasheets.
 * [Crowdsourced high-quality Argentinian Spanish (es-ar) speech multi-speaker dataset][20]
 * [Crowdsourced high-quality Peruvian Spanish (es-pe) multi-speaker speech dataset][21]
 * [Crowdsourced high-quality Venezuelan Spanish (es-ve) multi-speaker speech dataset][22]
+* [DynaSent][38]
 
 ## Tools
 * [Model Card Toolkit][17]
@@ -77,3 +81,7 @@ A collection of machine learning model cards and datasheets.
 [32]: https://drive.google.com/file/d/1bsWbokp9AklH2ANjCfmjqEzzxO1CNbMu/view
 [33]: https://drive.google.com/file/d/1tW-O4wE0SsluKNE7TLfRUgCxVFopwa1k/view
 [34]: https://drive.google.com/file/d/1CMhN7Npdq0Dt2j0_z69mai2-m7oUTRKF/view
+[35]: https://github.com/openai/CLIP/blob/main/model-card.md
+[36]: https://github.com/openai/DALL-E/blob/master/model_card.md
+[37]: https://github.com/cgpotts/dynasent/blob/main/dynasent_modelcard.md
+[38]: https://github.com/cgpotts/dynasent/blob/main/dynasent_datasheet.md
