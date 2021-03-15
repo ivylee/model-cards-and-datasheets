@@ -7,6 +7,7 @@ A collection of machine learning model cards and datasheets.
 * [Object Detection, Google Cloud Vision API][3]
 * [Toxicity, Google Conversation AI][4]
 * [GPT-2, Open AI][5]
+* [GPT-3, Open AI][39]
 * [PubMed Evidence Classifier, Allen AI][6]
 * [Airline Complaints Classifier, Allen AI][7]
 * [PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models][10]
@@ -29,6 +30,7 @@ A collection of machine learning model cards and datasheets.
 * [CLIP, OpenAI][35]
 * [DALL-E, OpenAI][36]
 * [DynaSent][37]
+* [CTRL - A Conditional Transformer Language Model for Controllable Generation, Salesforce][40]
 
 ## Datasheets
 * [Datasheets for Datasets][8]
@@ -85,3 +87,5 @@ A collection of machine learning model cards and datasheets.
 [36]: https://github.com/openai/DALL-E/blob/master/model_card.md
 [37]: https://github.com/cgpotts/dynasent/blob/main/dynasent_modelcard.md
 [38]: https://github.com/cgpotts/dynasent/blob/main/dynasent_datasheet.md
+[39]: https://github.com/openai/gpt-3/blob/master/model-card.md
+[40]: https://github.com/salesforce/ctrl/blob/master/ModelCard.pdf
