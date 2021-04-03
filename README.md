@@ -52,7 +52,7 @@ A collection of machine learning model cards and datasheets.
 [1]: https://arxiv.org/abs/1810.03993
 [2]: https://modelcards.withgoogle.com/face-detection
 [3]: https://modelcards.withgoogle.com/object-detection
-[4]: https://github.com/conversationai/perspectiveapi/blob/master/2-api/model-cards/English/toxicity.md
+[4]: https://github.com/conversationai/perspectiveapi/blob/main/model-cards/English/toxicity.md
 [5]: https://github.com/openai/gpt-2/blob/master/model_card.md
 [6]: https://autocat.apps.allenai.org/?uid=35706625-67f6-45e5-933b-d40c4c753a17
 [7]: https://autocat.apps.allenai.org/?uid=df78e70e-89a5-40d9-8951-36eff7642dac
