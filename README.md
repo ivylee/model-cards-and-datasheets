@@ -31,6 +31,8 @@ A collection of machine learning model cards and datasheets.
 * [DALL-E, OpenAI][36]
 * [DynaSent][37]
 * [CTRL - A Conditional Transformer Language Model for Controllable Generation, Salesforce][40]
+* [Einstein OCR Model Card, Salesforce][41]
+* [MLKit Selfie Segmentation, Google ML Kit][42]
 
 ## Datasheets
 * [Datasheets for Datasets][8]
@@ -89,3 +91,5 @@ A collection of machine learning model cards and datasheets.
 [38]: https://github.com/cgpotts/dynasent/blob/main/dynasent_datasheet.md
 [39]: https://github.com/openai/gpt-3/blob/master/model-card.md
 [40]: https://github.com/salesforce/ctrl/blob/master/ModelCard.pdf
+[41]: https://metamind.readme.io/docs/einstein-ocr-model-card
+[42]: https://developers.google.com/ml-kit/images/vision/selfie-segmentation/selfie-model-card.pdf
