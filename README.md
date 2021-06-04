@@ -33,6 +33,14 @@ A collection of machine learning model cards and datasheets.
 * [CTRL - A Conditional Transformer Language Model for Controllable Generation, Salesforce][40]
 * [Einstein OCR Model Card, Salesforce][41]
 * [MLKit Selfie Segmentation, Google ML Kit][42]
+* [Detector for CTRL, Salesforce][43]
+* [AI Economist: Foundation, Salesforce][44]
+* [Einstein Messaging Insights, Salesforce][45]
+* [Einstein Engagement Frequency, Salesforce][46]
+* [Einstein Engagement Scoring for Mobile, Salesforce][47]
+* [Einstein Call Coaching Language Model, Salesforce][48]
+* [Detect Sentiment, Salesforce][49]
+* [Einstein Opportunity Scoring, Salesforce][50]
 
 ## Datasheets
 * [Datasheets for Datasets][8]
@@ -93,3 +101,11 @@ A collection of machine learning model cards and datasheets.
 [40]: https://github.com/salesforce/ctrl/blob/master/ModelCard.pdf
 [41]: https://metamind.readme.io/docs/einstein-ocr-model-card
 [42]: https://developers.google.com/ml-kit/images/vision/selfie-segmentation/selfie-model-card.pdf
+[43]: https://github.com/salesforce/ctrl-detector/blob/master/ModelCard.pdf
+[44]: https://github.com/salesforce/ai-economist/blob/master/Simulation_Card_Foundation_Economic_Simulation_Framework.pdf
+[45]: https://help.salesforce.com/articleView?id=sf.mc_anb_einstein_messaging_insights_model_card.htm&type=5
+[46]: https://help.salesforce.com/articleView?id=sf.mc_anb_einstein_engagement_frequency_model_card.htm&type=5
+[47]: https://help.salesforce.com/articleView?id=sf.mc_anb_einstein_engagement_scoring_for_mobile_model_card.htm&type=5
+[48]: https://einstein.ai/pdf/sales-call-coaching.pdf
+[49]: https://help.salesforce.com/articleView?id=sf.bi_integrate_transformation_detectSentimentModelCard.htm&type=5
+[50]: https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/salesforce_ai_model_cards.pdf
