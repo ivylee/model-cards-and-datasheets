@@ -41,6 +41,8 @@ A collection of machine learning model cards and datasheets.
 * [Einstein Call Coaching Language Model, Salesforce][48]
 * [Detect Sentiment, Salesforce][49]
 * [Einstein Opportunity Scoring, Salesforce][50]
+* [Generative Pretrained Transformer, Cohere][51]
+* [Masked Language Model, Cohere][52]
 
 ## Datasheets
 * [Datasheets for Datasets][8]
@@ -109,3 +111,5 @@ A collection of machine learning model cards and datasheets.
 [48]: https://einstein.ai/pdf/sales-call-coaching.pdf
 [49]: https://help.salesforce.com/articleView?id=sf.bi_integrate_transformation_detectSentimentModelCard.htm&type=5
 [50]: https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/salesforce_ai_model_cards.pdf
+[51]: https://docs.cohere.ai/generation-card
+[52]: https://docs.cohere.ai/representation-card
