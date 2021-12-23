@@ -56,6 +56,7 @@ A collection of machine learning model cards and datasheets.
 
 ## Tools
 * [Model Card Toolkit][17]
+* [VerifyML][53]
 
 ## Tutorials
 * [How to create and deploy a model card in the cloud with Scikit-Learn][29]
@@ -113,3 +114,4 @@ A collection of machine learning model cards and datasheets.
 [50]: https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/salesforce_ai_model_cards.pdf
 [51]: https://docs.cohere.ai/generation-card
 [52]: https://docs.cohere.ai/representation-card
+[53]: https://www.verifyml.com
