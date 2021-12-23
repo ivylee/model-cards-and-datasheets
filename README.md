@@ -3,6 +3,7 @@ A collection of machine learning model cards and datasheets.
 
 ## Model Cards
 * [Model Cards for Model Reporting][1]
+* [DAG Card is the new Model Card][54]
 * [Face Detection, Google Cloud Vision API][2]
 * [Object Detection, Google Cloud Vision API][3]
 * [Toxicity, Google Conversation AI][4]
@@ -115,3 +116,4 @@ A collection of machine learning model cards and datasheets.
 [51]: https://docs.cohere.ai/generation-card
 [52]: https://docs.cohere.ai/representation-card
 [53]: https://www.verifyml.com
+[54]: https://arxiv.org/abs/2110.13601
