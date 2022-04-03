@@ -49,6 +49,7 @@ A collection of machine learning model cards and datasheets.
 * [GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models, OpenAI][57]
 * [Diffusion Models Beat GANS on Image Synthesis, Open AI][58]
 * [Learning to Summarize from Human Feedback][59]
+* [Scaling Language Models: Methods, Analysis & Insights from Training Gopher, DeepMind][60]
 
 ## Datasheets
 * [Datasheets for Datasets][8]
@@ -127,3 +128,4 @@ A collection of machine learning model cards and datasheets.
 [57]: https://github.com/openai/glide-text2im/blob/main/model-card.md
 [58]: https://github.com/openai/guided-diffusion/blob/main/model-card.md
 [59]: https://github.com/openai/summarize-from-feedback/blob/master/model_card.md
+[60]: https://arxiv.org/abs/2112.11446
