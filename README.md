@@ -68,6 +68,7 @@ A collection of machine learning model cards and datasheets.
 ## Tutorials
 * [How to create and deploy a model card in the cloud with Scikit-Learn][29]
 * [Using Model Card Toolkit for TF Model Transparency][30]
+* [Create a Custom Model Card with Google’s Model Card Toolkit][61]
 
 [1]: https://arxiv.org/abs/1810.03993
 [2]: https://modelcards.withgoogle.com/face-detection
@@ -129,3 +130,4 @@ A collection of machine learning model cards and datasheets.
 [58]: https://github.com/openai/guided-diffusion/blob/main/model-card.md
 [59]: https://github.com/openai/summarize-from-feedback/blob/master/model_card.md
 [60]: https://arxiv.org/abs/2112.11446
+[61]: https://towardsdatascience.com/create-a-custom-model-card-with-googles-model-card-toolkit-a1e89a7887b5
