@@ -44,6 +44,11 @@ A collection of machine learning model cards and datasheets.
 * [Einstein Opportunity Scoring, Salesforce][50]
 * [Generative Pretrained Transformer, Cohere][51]
 * [Masked Language Model, Cohere][52]
+* [Language Agnostic Link-Based Article Topic Model Card][55]
+* [InstructGPT: Training Language Models to Follow Instructions with Human Feedback, OpenAI][56]
+* [GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models, OpenAI][57]
+* [Diffusion Models Beat GANS on Image Synthesis, Open AI][58]
+* [Learning to Summarize from Human Feedback][59]
 
 ## Datasheets
 * [Datasheets for Datasets][8]
@@ -117,3 +122,8 @@ A collection of machine learning model cards and datasheets.
 [52]: https://docs.cohere.ai/representation-card
 [53]: https://www.verifyml.com
 [54]: https://arxiv.org/abs/2110.13601
+[55]: https://meta.wikimedia.org/wiki/User:HTriedman_(WMF)/Language_Agnostic_Link-Based_Article_Topic_Model_Card
+[56]: https://github.com/openai/following-instructions-human-feedback/blob/main/model-card.md
+[57]: https://github.com/openai/glide-text2im/blob/main/model-card.md
+[58]: https://github.com/openai/guided-diffusion/blob/main/model-card.md
+[59]: https://github.com/openai/summarize-from-feedback/blob/master/model_card.md
