@@ -50,6 +50,13 @@ A collection of machine learning model cards and datasheets.
 * [Diffusion Models Beat GANS on Image Synthesis, Open AI][58]
 * [Learning to Summarize from Human Feedback][59]
 * [Scaling Language Models: Methods, Analysis & Insights from Training Gopher, DeepMind][60]
+* [DALL-E Mini, Hugging Face][62]
+* [Serverless Prediction of Peptide Properties with Recurrent Neural Networks][63]
+* [STT En Conformer-CTC Large, Nvidia][64]
+* [Towards Climate Awareness in NLP Research][65]
+* [OPT: Open Pre-trained Transformer Language Models, Meta AI][66]
+* [DALL-E 2, OpenAI][67]
+* [PaLM: Scaling Language Modeling with Pathways, Google][68]
 
 ## Datasheets
 * [Datasheets for Datasets][8]
@@ -131,3 +138,10 @@ A collection of machine learning model cards and datasheets.
 [59]: https://github.com/openai/summarize-from-feedback/blob/master/model_card.md
 [60]: https://arxiv.org/abs/2112.11446
 [61]: https://towardsdatascience.com/create-a-custom-model-card-with-googles-model-card-toolkit-a1e89a7887b5
+[62]: https://huggingface.co/dalle-mini/dalle-mini
+[63]: https://peptide.bio
+[64]: https://catalog.ngc.nvidia.com/orgs/nvidia/teams/nemo/models/stt_en_conformer_ctc_large
+[65]: https://arxiv.org/abs/2205.05071
+[66]: https://arxiv.org/abs/2205.01068
+[67]: https://github.com/openai/dalle-2-preview/blob/main/system-card.md
+[68]: https://arxiv.org/abs/2204.02311
