@@ -71,6 +71,7 @@ A collection of machine learning model cards and datasheets.
 ## Tools
 * [Model Card Toolkit][17]
 * [VerifyML][53]
+* [The Model Card Authoring Toolkit: Toward Community-centered, Deliberation-driven AI Design][69]
 
 ## Tutorials
 * [How to create and deploy a model card in the cloud with Scikit-Learn][29]
@@ -145,3 +146,4 @@ A collection of machine learning model cards and datasheets.
 [66]: https://arxiv.org/abs/2205.01068
 [67]: https://github.com/openai/dalle-2-preview/blob/main/system-card.md
 [68]: https://arxiv.org/abs/2204.02311
+[69]: https://www.andrew.cmu.edu/user/hongs/files/facct22-modelcardauthoring.pdf
