@@ -57,6 +57,11 @@ A collection of machine learning model cards and datasheets.
 * [OPT: Open Pre-trained Transformer Language Models, Meta AI][66]
 * [DALL-E 2, OpenAI][67]
 * [PaLM: Scaling Language Modeling with Pathways, Google][68]
+* [Whisper, OpenAI][70]
+* [GALACTICA, Meta][71]
+* [Stable Diffusion, CompVis][72]
+* [InstructGPT, OpenAI][73]
+* [Gopher, DeepMind][75]
 
 ## Datasheets
 * [Datasheets for Datasets][8]
@@ -72,6 +77,7 @@ A collection of machine learning model cards and datasheets.
 * [Model Card Toolkit][17]
 * [VerifyML][53]
 * [The Model Card Authoring Toolkit: Toward Community-centered, Deliberation-driven AI Design][69]
+* [Model card template][74]
 
 ## Tutorials
 * [How to create and deploy a model card in the cloud with Scikit-Learn][29]
@@ -147,3 +153,9 @@ A collection of machine learning model cards and datasheets.
 [67]: https://github.com/openai/dalle-2-preview/blob/main/system-card.md
 [68]: https://arxiv.org/abs/2204.02311
 [69]: https://www.andrew.cmu.edu/user/hongs/files/facct22-modelcardauthoring.pdf
+[70]: https://github.com/openai/whisper/blob/main/model-card.md
+[71]: https://github.com/paperswithcode/galai/blob/main/docs/model_card.md
+[72]: https://github.com/CompVis/stable-diffusion/blob/main/Stable_Diffusion_v1_Model_Card.md
+[73]: https://github.com/openai/following-instructions-human-feedback/blob/main/model-card.md
+[74]: https://meta.wikimedia.org/wiki/Machine_learning_models/Model_card_template
+[75]: https://arxiv.org/pdf/2112.11446.pdf
