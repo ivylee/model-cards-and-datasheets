@@ -62,6 +62,15 @@ A collection of machine learning model cards and datasheets.
 * [Stable Diffusion, CompVis][72]
 * [InstructGPT, OpenAI][73]
 * [Gopher, DeepMind][75]
+* [Extract Skills, Nesta][76]
+* [Skills to Taxonomy Mapping, Nesta][77]
+* [GPT-4, OpenAI][85]
+* [GPT-4V, OpenAI][78]
+* [Claude, Anthropic][79]
+* [Llama, Meta][84]
+* [Llama 2, Meta][81]
+* [AudioGen, Meta][82]
+* [MusicGen, Meta][83]
 
 ## Datasheets
 * [Datasheets for Datasets][8]
@@ -78,6 +87,7 @@ A collection of machine learning model cards and datasheets.
 * [VerifyML][53]
 * [The Model Card Authoring Toolkit: Toward Community-centered, Deliberation-driven AI Design][69]
 * [Model card template][74]
+* [Amazon SageMaker Model Cards][80]
 
 ## Tutorials
 * [How to create and deploy a model card in the cloud with Scikit-Learn][29]
@@ -159,3 +169,13 @@ A collection of machine learning model cards and datasheets.
 [73]: https://github.com/openai/following-instructions-human-feedback/blob/main/model-card.md
 [74]: https://meta.wikimedia.org/wiki/Machine_learning_models/Model_card_template
 [75]: https://arxiv.org/pdf/2112.11446.pdf
+[76]: https://nestauk.github.io/ojd_daps_skills/build/html/model_card.html#extract_skills_card
+[77]: https://nestauk.github.io/ojd_daps_skills/build/html/model_card.html#mapping_card
+[78]: https://cdn.openai.com/papers/GPTV_System_Card.pdf
+[79]: https://www-files.anthropic.com/production/images/Model-Card-Claude-2.pdf
+[80]: https://docs.aws.amazon.com/sagemaker/latest/dg/model-cards.html
+[81]: https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/
+[82]: https://github.com/facebookresearch/audiocraft/blob/main/model_cards/AUDIOGEN_MODEL_CARD.md
+[83]: https://github.com/facebookresearch/audiocraft/blob/main/model_cards/MUSICGEN_MODEL_CARD.md
+[84]: https://github.com/facebookresearch/llama/blob/main/MODEL_CARD.md
+[85]: https://cdn.openai.com/papers/gpt-4-system-card.pdf
