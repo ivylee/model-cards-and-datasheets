@@ -71,6 +71,7 @@ A collection of machine learning model cards and datasheets.
 * [Llama 2, Meta][81]
 * [AudioGen, Meta][82]
 * [MusicGen, Meta][83]
+* [Grok-1, xAI][86]
 
 ## Datasheets
 * [Datasheets for Datasets][8]
@@ -179,3 +180,4 @@ A collection of machine learning model cards and datasheets.
 [83]: https://github.com/facebookresearch/audiocraft/blob/main/model_cards/MUSICGEN_MODEL_CARD.md
 [84]: https://github.com/facebookresearch/llama/blob/main/MODEL_CARD.md
 [85]: https://cdn.openai.com/papers/gpt-4-system-card.pdf
+[86]: https://x.ai/model-card/
