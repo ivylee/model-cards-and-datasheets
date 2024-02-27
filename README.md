@@ -9,8 +9,6 @@ A collection of machine learning model cards and datasheets.
 * [Toxicity, Google Conversation AI][4]
 * [GPT-2, Open AI][5]
 * [GPT-3, Open AI][39]
-* [PubMed Evidence Classifier, Allen AI][6]
-* [Airline Complaints Classifier, Allen AI][7]
 * [PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models][10]
 * ["The Human Body is a Black Box": Supporting Clinical Decision-Making with Deep Learning][11]
 * [MediaPipe BlazeFace][12]
@@ -100,8 +98,6 @@ A collection of machine learning model cards and datasheets.
 [3]: https://modelcards.withgoogle.com/object-detection
 [4]: https://github.com/conversationai/perspectiveapi/blob/main/model-cards/English/toxicity.md
 [5]: https://github.com/openai/gpt-2/blob/master/model_card.md
-[6]: https://autocat.apps.allenai.org/?uid=35706625-67f6-45e5-933b-d40c4c753a17
-[7]: https://autocat.apps.allenai.org/?uid=df78e70e-89a5-40d9-8951-36eff7642dac
 [8]: https://arxiv.org/abs/1803.09010
 [9]: https://research.google/static/documents/datasets/open-images-extended-crowdsourced.pdf
 [10]: https://drive.google.com/file/d/1fV7FsmunjDuRrsn4KYf2Efwp0FNBtcR4/view
