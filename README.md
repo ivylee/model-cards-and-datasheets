@@ -70,6 +70,9 @@ A collection of machine learning model cards and datasheets.
 * [AudioGen, Meta][82]
 * [MusicGen, Meta][83]
 * [Grok-1, xAI][86]
+* [Gemma, Google][87]
+* [Claude 3, Anthropic][88]
+* [GOODY-2][89]
 
 ## Datasheets
 * [Datasheets for Datasets][8]
@@ -177,3 +180,6 @@ A collection of machine learning model cards and datasheets.
 [84]: https://github.com/facebookresearch/llama/blob/main/MODEL_CARD.md
 [85]: https://cdn.openai.com/papers/gpt-4-system-card.pdf
 [86]: https://x.ai/model-card/
+[87]: https://ai.google.dev/gemma/docs/model_card
+[88]: https://www.anthropic.com/claude-3-model-card
+[89]: https://www.goody2.ai/goody2-modelcard.pdf
