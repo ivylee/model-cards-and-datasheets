@@ -80,6 +80,8 @@ A collection of machine learning model cards and datasheets.
 * [Gemini 1.5, Google][93]
 * [Llama 3, Meta][91]
 * [Claude 3.5 Sonnet, Anthropic][90]
+* [Perspective API, Google][97]
+* [MedLM, Google][98]
 
 ## Datasheets
 * [Datasheets for Datasets][8]
@@ -197,3 +199,5 @@ A collection of machine learning model cards and datasheets.
 [94]: https://ai.google.dev/gemma/docs/paligemma/model-card
 [95]: https://ai.google.dev/gemma/docs/codegemma/model_card
 [96]: https://ai.google.dev/gemma/docs/recurrentgemma/model_card
+[97]: https://developers.perspectiveapi.com/s/about-the-api-model-cards?language=en_US
+[98]: https://cloud.google.com/static/vertex-ai/generative-ai/docs/medlm/MedLM-model-card.pdf
