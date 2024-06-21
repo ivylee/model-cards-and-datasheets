@@ -82,6 +82,7 @@ A collection of machine learning model cards and datasheets.
 * [Claude 3.5 Sonnet, Anthropic][90]
 * [Perspective API, Google][97]
 * [MedLM, Google][98]
+* [PaLM2, Google][99]
 
 ## Datasheets
 * [Datasheets for Datasets][8]
@@ -201,3 +202,4 @@ A collection of machine learning model cards and datasheets.
 [96]: https://ai.google.dev/gemma/docs/recurrentgemma/model_card
 [97]: https://developers.perspectiveapi.com/s/about-the-api-model-cards?language=en_US
 [98]: https://cloud.google.com/static/vertex-ai/generative-ai/docs/medlm/MedLM-model-card.pdf
+[99]: https://ai.google/static/documents/palm2techreport.pdf#page=92
