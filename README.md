@@ -71,8 +71,15 @@ A collection of machine learning model cards and datasheets.
 * [MusicGen, Meta][83]
 * [Grok-1, xAI][86]
 * [Gemma, Google][87]
+* [CodeGemma, Google][95]
+* [PaliGemma, Google][94]
+* [RecurrentGemma, Google][96]
 * [Claude 3, Anthropic][88]
 * [GOODY-2][89]
+* [Gemini Ultra, Google][92]
+* [Gemini 1.5, Google][93]
+* [Llama 3, Meta][91]
+* [Claude 3.5 Sonnet, Anthropic][90]
 
 ## Datasheets
 * [Datasheets for Datasets][8]
@@ -183,3 +190,10 @@ A collection of machine learning model cards and datasheets.
 [87]: https://ai.google.dev/gemma/docs/model_card
 [88]: https://www.anthropic.com/claude-3-model-card
 [89]: https://www.goody2.ai/goody2-modelcard.pdf
+[90]: https://www-cdn.anthropic.com/fed9cc193a14b84131812372d8d5857f8f304c52/Model_Card_Claude_3_Addendum.pdf
+[91]: https://github.com/meta-llama/llama3/blob/main/MODEL_CARD.md
+[92]: https://arxiv.org/abs/2312.11805
+[93]: https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf
+[94]: https://ai.google.dev/gemma/docs/paligemma/model-card
+[95]: https://ai.google.dev/gemma/docs/codegemma/model_card
+[96]: https://ai.google.dev/gemma/docs/recurrentgemma/model_card
