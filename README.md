@@ -1,7 +1,7 @@
 # model-cards-and-datasheets
 A collection of machine learning model cards and datasheets.
 
-## Model Cards
+## Model Cards / System Cards
 * [Model Cards for Model Reporting][1]
 * [DAG Card is the new Model Card][54]
 * [Face Detection, Google Cloud Vision API][2]
@@ -83,6 +83,25 @@ A collection of machine learning model cards and datasheets.
 * [Perspective API, Google][97]
 * [MedLM, Google][98]
 * [PaLM2, Google][99]
+* [Claude 4, Anthropic][100]
+* [GPT-4.5, OpenAI][101]
+* [Multimodal generative AI systems, Meta][102]
+* [AI systems that generate text, Meta][103]
+* [AI systems that generate images, Meta][104]
+* [Instagram feed ranking, Meta][105]
+* [Social commerce, Meta][106]
+* [Our approach to explaining ranking, Meta][107]
+* [Gemini 2.0 Flash-Lite, Google][108]
+* [Gemini 2.0 Flash, Google][109]
+* [Gemini 2.5 Pro Preview, Google][110]
+* [Gemini 2.5 Flash Preview, Google][111]
+* [Gemma 2, Google][112]
+* [Gemma 3, Google][113]
+* [ShieldGemma 2, Google][114]
+* [Veo 2, Google][115]
+* [Imagen 3, Google][116]
+* [Llama 4, Meta][117]
+* [GPT-4o, OpenAI][118]
 
 ## Datasheets
 * [Datasheets for Datasets][8]
@@ -203,3 +222,22 @@ A collection of machine learning model cards and datasheets.
 [97]: https://developers.perspectiveapi.com/s/about-the-api-model-cards?language=en_US
 [98]: https://cloud.google.com/static/vertex-ai/generative-ai/docs/medlm/MedLM-model-card.pdf
 [99]: https://ai.google/static/documents/palm2techreport.pdf#page=92
+[100]: https://www-cdn.anthropic.com/4263b940cabb546aa0e3283f35b686f4f3b2ff47.pdf
+[101]: https://cdn.openai.com/gpt-4-5-system-card-2272025.pdf
+[102]: https://ai.meta.com/tools/system-cards/multimodal-generative-ai-systems/
+[103]: https://ai.meta.com/tools/system-cards/ai-systems-that-generate-text/
+[104]: https://ai.meta.com/tools/system-cards/ai-systems-that-generate-images/
+[105]: https://ai.meta.com/tools/system-cards/instagram-feed-ranking/
+[106]: https://ai.meta.com/tools/system-cards/social-commerce/
+[107]: https://transparency.meta.com/features/explaining-ranking/
+[108]: https://storage.googleapis.com/model-cards/documents/gemini-2-flash-lite.pdf
+[109]: https://storage.googleapis.com/model-cards/documents/gemini-2-flash.pdf
+[110]: https://storage.googleapis.com/model-cards/documents/gemini-2.5-pro-preview.pdf
+[111]: https://storage.googleapis.com/model-cards/documents/gemini-2.5-flash-preview.pdf
+[112]: https://ai.google.dev/gemma/docs/model_card_2
+[113]: https://ai.google.dev/gemma/docs/core/model_card_3
+[114]: https://ai.google.dev/gemma/docs/shieldgemma/model_card_2
+[115]: https://storage.googleapis.com/model-cards/documents/veo-2-model-card.pdf
+[116]: https://arxiv.org/pdf/2408.07009#page=18
+[117]: https://github.com/meta-llama/llama-models/blob/main/models/llama4/MODEL_CARD.md
+[118]: https://openai.com/index/gpt-4o-system-card/
