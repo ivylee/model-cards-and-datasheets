@@ -102,6 +102,7 @@ A collection of machine learning model cards and datasheets.
 * [Imagen 3, Google][116]
 * [Llama 4, Meta][117]
 * [GPT-4o, OpenAI][118]
+* [GPT-5 System Card, OpenAI][119]
 
 ## Datasheets
 * [Datasheets for Datasets][8]
@@ -241,3 +242,4 @@ A collection of machine learning model cards and datasheets.
 [116]: https://arxiv.org/pdf/2408.07009#page=18
 [117]: https://github.com/meta-llama/llama-models/blob/main/models/llama4/MODEL_CARD.md
 [118]: https://openai.com/index/gpt-4o-system-card/
+[119]: https://openai.com/index/gpt-5-system-card/
