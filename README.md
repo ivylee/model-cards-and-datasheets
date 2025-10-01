@@ -103,6 +103,7 @@ A collection of machine learning model cards and datasheets.
 * [Llama 4, Meta][117]
 * [GPT-4o, OpenAI][118]
 * [GPT-5 System Card, OpenAI][119]
+* [Claude Sonnet 4.5 System Card, Anthropic][120]
 
 ## Datasheets
 * [Datasheets for Datasets][8]
@@ -243,3 +244,4 @@ A collection of machine learning model cards and datasheets.
 [117]: https://github.com/meta-llama/llama-models/blob/main/models/llama4/MODEL_CARD.md
 [118]: https://openai.com/index/gpt-4o-system-card/
 [119]: https://openai.com/index/gpt-5-system-card/
+[120]: https://assets.anthropic.com/m/12f214efcc2f457a/original/Claude-Sonnet-4-5-System-Card.pdf
