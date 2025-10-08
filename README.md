@@ -104,6 +104,7 @@ A collection of machine learning model cards and datasheets.
 * [GPT-4o, OpenAI][118]
 * [GPT-5 System Card, OpenAI][119]
 * [Claude Sonnet 4.5 System Card, Anthropic][120]
+* [Gemini 2.5 Computer Use Preview, Google][121]
 
 ## Datasheets
 * [Datasheets for Datasets][8]
@@ -245,3 +246,4 @@ A collection of machine learning model cards and datasheets.
 [118]: https://openai.com/index/gpt-4o-system-card/
 [119]: https://openai.com/index/gpt-5-system-card/
 [120]: https://assets.anthropic.com/m/12f214efcc2f457a/original/Claude-Sonnet-4-5-System-Card.pdf
+[121]: https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-2-5-Computer-Use-Model-Card.pdf
