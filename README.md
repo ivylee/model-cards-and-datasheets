@@ -108,6 +108,7 @@ A collection of machine learning model cards and datasheets.
 * [Claude Haiku 4.5 System Card, Anthropic][122]
 * [Claude Sonnet 4.6 System Card, Anthropic][123]
 * [Gemini 3.1 Pro Model Card, Google][124]
+* [GPT-5.4 Thinking System Card, OpenAI][125]
 
 ## Datasheets
 * [Datasheets for Datasets][8]
@@ -253,3 +254,4 @@ A collection of machine learning model cards and datasheets.
 [122]: https://assets.anthropic.com/m/99128ddd009bdcb/original/Claude-Haiku-4-5-System-Card.pdf
 [123]: https://www.anthropic.com/claude-sonnet-4-6-system-card
 [124]: https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-1-Pro-Model-Card.pdf
+[125]: https://openai.com/index/gpt-5-4-thinking-system-card/
